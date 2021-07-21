@@ -1,17 +1,18 @@
-# redraws-vue2-images
+# redraws-vue3-images
 
 ## install
 ```
-yarn add redraws-vue2-images
+yarn add redraws-vue3-images
 or
-npm install redraws-vue2-images
+npm install redraws-vue3-images
 ```
 ## use
 
 `<RedrawImage :type="**" :url="**"></RedrawImage>`
 ### gitgub 
 ```
-Not yet
+https://github.com/newdayss/redraws-vue3-images
+
 ```
 
 ### doc

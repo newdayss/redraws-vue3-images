@@ -1,6 +1,6 @@
 {
   "name": "redraws-vue3-images",
-  "version": "1.0.1",
+  "version": "1.1.4",
   "main": "dist/redrawImage.common.js",
    "files": [
     "dist/redrawImage.umd.js", "dist/demo.html"
