@@ -1,0 +1,11 @@
+.*
+*.md
+*.yml
+build/
+node_modules/*
+node_modules/*
+src/
+test/
+gulpfile.js
+webpack.config.js
+vue.config.js
